@@ -18,11 +18,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/typing-frenzy.git
+   git clone https://github.com/your-username/Speed-Typing.git
 
 2. **Navigate to the project directory**
    ```sh
-   cd typing-frenzy
+   cd Speed-Typing
 
 3. **Open `index.html` in your preferred browser**
 
