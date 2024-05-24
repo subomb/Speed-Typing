@@ -48,7 +48,7 @@ Type each word before time runs out to score points.
 - CSS3
 - JavaScript
 - Bootstrap 4
-- [Random Word API](https://api.api-ninjas.com/v1/randomword)
+- [Random Word API](https://api-ninjas.com/api/randomword)
 
 ## Acknowledgements
 - [API Ninjas](https://api.api-ninjas.com) for providing the random word API.
